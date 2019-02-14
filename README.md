@@ -4,7 +4,7 @@
 
 # To run the game
 * Clone the repository
-* run node <filename>.js on your terminal
+* run node index.js on your terminal
 
 # Future Additions
 * Ensure that the game allows you to play again at the end and not just exit out of terminal.
